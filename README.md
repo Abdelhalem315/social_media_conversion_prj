@@ -23,7 +23,6 @@ The trained pipeline can be executed via two primary interfaces:
 
 ### Repository Structure & Modular Design
 
-```text
 social_media_conversion_prj/
 ├── data/
 │   └── digital_marketing_campaign_dataset.csv
