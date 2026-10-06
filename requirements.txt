@@ -1,0 +1,9 @@
+End-to-End Modular Machine Learning Pipeline
+
+Libraries used in the project :
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+streamlit
